@@ -12,7 +12,7 @@ public class Main {
         try {
             
             // read input data
-            
+           
             InputData input = new InputData();
             
             // test conversion methods
